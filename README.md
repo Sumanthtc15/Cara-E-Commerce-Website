@@ -10,16 +10,9 @@ This is a E-Commerce Website. This project is based on HTML, CSS, JS.
 ## Tech Stack
 -  HTML, CSS, JS.
 
-## To Contribute
 
-- Open a [new issue](https://github.com/abhijit49/E-Commerce-Website-CARA-/issues/new)
-- Fork this repo
-- Create a new branch 
-- Write code and push your code in your forked repo branch.
-- Create a PR
 
-## Website link
-- https://abhijit49.github.io/E-Commerce-Website-CARA-/
+
 
 ## Support
 1. Report bug/issue
