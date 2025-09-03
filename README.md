@@ -20,8 +20,6 @@ This is a E-Commerce Website. This project is based on HTML, CSS, JS.
 3. Star this repository
 
 
-<hr/>
-This repo is maintained by <a href="https://github.com/abhijit49/">me.</a>
 
 
 
